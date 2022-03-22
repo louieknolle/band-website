@@ -1,0 +1,26 @@
+.header {
+  text-align: center;
+  color: red;
+  background-color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.sidebar {
+  width: 25%;
+  float: left;
+  background-color: blueviolet;
+  color: #09cdf0
+}
+
+.bar-title {
+  text-align: center;
+}
+
+.container {
+  background-color: greenyellow;
+}
+
+.guitar {
+  float: right;
+}
