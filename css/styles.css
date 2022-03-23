@@ -10,7 +10,11 @@
   width: 25%;
   float: left;
   background-color: blueviolet;
-  color: #09cdf0
+  color: #09cdf0;
+  border: dashed 10px rgb(246, 37, 201);
+  padding-top: 15px;
+  padding-right: 10px;
+
 }
 
 .bar-title {
@@ -19,8 +23,15 @@
 
 .container {
   background-color: greenyellow;
+  border-top: solid 5px orange;
+  margin-top: 0;
 }
 
 .guitar {
+  width: 50%;
+  height: auto;
   float: right;
+  border: solid 20px ivory;
+  padding: 10px;
 }
+
